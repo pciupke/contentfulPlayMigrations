@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "migration": "contentful space migration migrations/01-create-author.js"
+  },
+  "dependencies": {
+    "contentful-migration": "^4.9.4"
+  }
+}
