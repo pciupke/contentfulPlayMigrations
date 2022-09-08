@@ -1,5 +1,6 @@
 {
   "scripts": {
+    "all_migrations": "node migrations/runMigrations.js",
     "migration": "contentful space migration migrations/01-create-author.js"
   },
   "dependencies": {
